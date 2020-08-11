@@ -11,7 +11,7 @@ For grandmasters like you, this is your new world-class instrument.
 #### You can play [Super Kitty Piano](http://superkittypiano.com) at superkittypiano.com
 
 
-#### Learn more about AWS and Cloud on Youtube: [Cloudemy TV](https://youtube.cloudemy.tv) https://youtube.cloudemy.tv
+#### Learn more about AWS and Cloud on Youtube: [Cloudemy TV](http://youtube.cloudemy.tv) http://youtube.cloudemy.tv
 
 
 #### Learn how to re-create Super Kitty Piano website with Amazon EC2 from Super Kitty Piano Tutorial: https://youtu.be/jvmODLm1M1E
