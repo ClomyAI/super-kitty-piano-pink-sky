@@ -10,6 +10,9 @@ For grandmasters like you, this is your new world-class instrument.
 
 You can play [Super Kitty Piano](http://superkittypiano.com)  at superkittypiano.com
 
+[Cloudemy TV Youtube Channel](https://www.youtube.com/channel/UCdXmWoEclT5ukHG2qF7N2Dg).
+Learn how to re-create Super Kitty Piano website with Amazon EC2 from Super Kitty Piano Tutorial: https://youtu.be/jvmODLm1M1E
+
 
 ![Super Kitty](/images/super-kitty.gif)
 
